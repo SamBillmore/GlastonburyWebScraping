@@ -1,0 +1,13 @@
+# Ignore files beginning with the word 'glasto' or 'Glasto'
+
+glasto*.*
+Glasto*.*
+
+# Ignore vscode folder
+
+/.vscode
+
+# Ignore .xlsx and .csv
+
+*.csv
+*.xlsx
